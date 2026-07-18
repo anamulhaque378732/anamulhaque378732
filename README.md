@@ -1,6 +1,6 @@
-### Hi there 👋,  I am  Md. Anamul haque
-### I am MERN Stack Web Developer
-Passionate MERN Stack Developer with experience in building responsive and scalable web applications. Skilled in JavaScript, React.js, Next.js, Node.js, and MongoDB. Dedicated to continuous learning, problem-solving, and creating efficient digital solutions that deliver value to users and businesses.
+# Hi there 👋, I'm Md. Anamul Haque
+## Junior MERN Stack Developer
+Passionate MERN Stack Developer with hands-on experience building full-stack web applications using the MERN stack. I enjoy creating responsive, user-friendly, and scalable applications while writing clean and maintainable code. I am continuously improving my skills and currently looking for opportunities as a Junior Full Stack Developer.
 
 ## 💻 Tech Stack
 
