@@ -2,7 +2,19 @@
 ### I am MERN Stack Web Developer
 Passionate MERN Stack Developer with experience in building responsive and scalable web applications. Skilled in JavaScript, React.js, Next.js, Node.js, and MongoDB. Dedicated to continuous learning, problem-solving, and creating efficient digital solutions that deliver value to users and businesses.
 
-Skills: HTML5 / CSS3 / JavaScript / Golang / React.js / Next.js / Express.js / Node.js/ MongoDB / 
+## 💻 Tech Stack
+
+**Frontend:** HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), React.js, Next.js
+
+**Backend:** Node.js, Express.js
+
+**Database:** MongoDB
+
+**Authentication:** Firebase Authentication, JWT
+
+**Tools:** Git, GitHub
+
+**Currently Learning:** Golang
 
 - 🔭  I'm currently building full-stack MERN applications.
 - 🌱 I’m currently learning Golang 
