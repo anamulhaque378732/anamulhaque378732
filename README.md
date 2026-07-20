@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Md. Anamul Haque
-##  Fll Stack MERN Developer
+##  Full Stack MERN Developer
 Passionate MERN Stack Developer with hands-on experience building full-stack web applications using the MERN stack. I enjoy creating responsive, user-friendly, and scalable applications while writing clean and maintainable code. I am continuously improving my skills and currently looking for opportunities as a Junior Full Stack Developer.
 
 ## 💻 Tech Stack
