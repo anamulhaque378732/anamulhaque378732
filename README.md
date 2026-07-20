@@ -6,7 +6,7 @@ Passionate MERN Stack Developer with hands-on experience building full-stack web
 
 **Frontend:** HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), React.js, Next.js
 
-**Backend:** Node.js, Express.js
+**Backend:** Node.js, Express.js, RESTful API
 
 **Database:** MongoDB
 
